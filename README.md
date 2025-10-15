@@ -21,7 +21,7 @@ claude code directory:
 ```
 cd claude-code-setup
 ln -s agents/ ~/.claude/agents
-ln -s rules/ ~/.claude/rules
+ln -s stdlib/ ~/.claude/stdlib
 ln -s commands/ ~/.claude/commands
 ```
 

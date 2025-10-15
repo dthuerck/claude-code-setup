@@ -6,6 +6,8 @@ model: sonnet
 Analyze this project's CLAUDE.md (if there is none, create one) whether
 relevant content from the user's standard lib is included. You are responsible
 for compelting the list of imports according to this list:
+- in any project
+    - `@~/.claude/stdlib/rules/character.md`
 - in any code project:
     - `@~/.claude/stdlib/conventions/agent_files.md`
     - `@~/.claude/stdlib/rules/general.md`

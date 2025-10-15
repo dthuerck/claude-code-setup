@@ -1,4 +1,5 @@
 ---
+name: character
 allowed-tools: Bash(read *), Bash(ls *)
 description: Take the viewpoint of a character by its role and answer a question as that character.
 model: sonnect
