@@ -1,4 +1,5 @@
-### Process rules
+## Process rules
+
 Here are rules w.r.t the development process that you must consider:
 - Tests
     - You are not allowed to remove parts from test that fail unless the user explicitly gives you permission.

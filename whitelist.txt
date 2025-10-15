@@ -1,0 +1,13 @@
+# This is a white list of commands that I deem harmless - pasteable into the `settings.json`,
+# adapt this to your level of comfort with letting agents off the leash... 
+"Bash(grep *)",
+"WebFetchTool(*)",
+"Bash(ls:*)",
+"Bash(tree:*)",
+"WebSearch",
+"WebFetch(domain:dev.to)",
+"Bash(cat:*)",
+"Bash(uv run pytest:*)",
+"Bash(git log:*)",
+"Bash(git diff *)",
+"Bash(git status *)

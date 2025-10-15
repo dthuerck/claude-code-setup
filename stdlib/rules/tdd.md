@@ -1,4 +1,4 @@
-### Test-Driven Development Methodology
+## Test-Driven Development Methodology
 
 Test-Driven development follows the principle "write tests (and interface) first,
 see them fail and then write the implementation piece by piece until the tests succeed!".

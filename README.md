@@ -14,6 +14,19 @@ Leveraging these building blocks are:
 The collection pretty much stems from my (daily) usage of Claude Code. I myself, besides
 Sonnet and Opus, also use GLM-4.6 and test these blocks for all models.
 
+## Setup
+
+Clone the repo: `git clone X` and then symlink these folders into your user's
+claude code directory:
+```
+cd claude-code-setup
+ln -s agents/ ~/.claude/agents
+ln -s rules/ ~/.claude/rules
+ln -s commands/ ~/.claude/commands
+```
+
+Start Claude code as usual and enjoy!
+
 ## Sources
 
 I've taken the liberty to use, include and/or adapt contents from the following projects:
