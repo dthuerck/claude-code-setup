@@ -1,0 +1,17 @@
+{
+    "mcpServers": {
+        "tmux_on_lucihub": {
+            "type": "stdio",
+            "command": "npm",
+            "args": ["--prefix", "/home/dthuerck/dev/ai/mcp/tmux-mcp", "run", "start", "--", "--ssh=<SSH host>"],
+            "env": {}
+        },
+        "context7": {
+            "type": "http",
+            "url": "https://mcp.context7.com/mcp",
+            "headers": {
+                "CONTEXT7_API_KEY": "<API KEY>"
+            }
+        }
+    }
+}
