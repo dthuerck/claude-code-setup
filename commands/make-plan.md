@@ -12,11 +12,8 @@ model: opus
 ## Your Task
 This task is called in two situations:
 1) The user describes to you a feature to implement or an issue to fix
-2) 
-Hese inputs can be in the same message, in the conversation history or even given
+2) The task at hand is inferrable from the same message, in the conversation history or even given
 through a file.
-
-on how to execute and, if needed, implement the user's request. 
 
 Execute the following steps:
 - Read through the user's request / the discussion thoroughly. If the request is not clear enough or if you have
@@ -76,7 +73,7 @@ In general, in each section, the plan should follow a top-down principle where
 you first set the context for the reader, then present the modification and lastly explain
 the motication and the intent of the change.
 
-Do not add all the code yet, but rather _desxcribe_ the planned changes per file in your words
+Do not add all the code yet, but rather _describe_ the planned changes per file in your words
 and add interfaces in code.
 
 ## Storing the plan

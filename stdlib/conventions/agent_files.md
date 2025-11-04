@@ -14,4 +14,5 @@ These files are specified by convention:
 - a `plan.md` that contains the original implementation plan the user and the agent worked on together
 - several `review_X.md` files where X is an increasing integer number starting by 0; contains reviews and plans to remedy the issues pointed out in a review;
 a session may have multiple review cycles
+- (sometimes) a file `tdd.md` that outlines the TDD sprints, each with implementation and tests - for sessions in which we are readically doing TDD
 - a `feedback.md` which contains feedback generated from e.g. a session review at the end of the session; contains leranings for future sessions

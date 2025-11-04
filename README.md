@@ -31,5 +31,6 @@ Start Claude code as usual and enjoy!
 
 I've taken the liberty to use, include and/or adapt contents from the following projects:
 - [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
+- [Claude Superpowers](https://github.com/obra/superpowers)
 
 Kudos to their authors and thnaks for sharing with the world!

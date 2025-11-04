@@ -41,5 +41,16 @@ move on in the process without _explicit_ user approval:
 testing code;
 - and, lastly, before declaring the task done.
 
-At thsi stages, you can interact with the uer to improve your (intermediate) results,
+At this stage, you can interact with the uer to improve your (intermediate) results,
 but have to get permission first to continue.
+
+**Output**
+After each phase of TDD, the output is:
+- a _single_, very short document outlining what steps have been taken in the implementation and what alterations *e.g. from your interactions with tools/tests or user feedback were needed -> `summary.md`
+- the code that is written
+- the tests that were written
+- a demonstrated GREEN run of all tests in the project (as to avoid breaking tests in another phase)
+
+These should be inside a folder `phase_X` where X is the number of the current phase inside the folder of the current session. In doubt, ask.
+
+Note that if the user requested that tests are skipped, you do NOT need to create a "verification" script!
